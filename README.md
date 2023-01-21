@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @electro-code
+- 👋 Hi, I’m Abhimanue Rajesh 
 - 👀 I’m interested in Machine Learning and GUI(Python)
 - 🌱 I’m currently learning the same  
 - 💞️ I’m looking to collaborate on python Machinelearning   
